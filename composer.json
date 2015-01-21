@@ -1,0 +1,13 @@
+{
+    "name": "purplebooth/s1-simplest-silex",
+    "require": {
+        "silex/silex": "~1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Billie Alice Thompson",
+            "email": "billie@purplebooth.co.uk"
+        }
+    ]
+}
